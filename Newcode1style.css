@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+
+.Box{
+    box-sizing: border-box;
+    height: 250px;
+    width: 300px;
+    font-family:sans-serif;
+    background-color: peru;
+    border : 15px solid goldenrod;
+    margin: 300px;
+    padding: 110px;
+    font-size: 16px;
+}
